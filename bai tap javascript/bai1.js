@@ -1,0 +1,1 @@
+alert("Thầy Quang đẹp trai")
